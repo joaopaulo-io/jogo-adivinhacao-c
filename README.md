@@ -19,7 +19,7 @@ Um projeto simples para praticar lógica, condicionais, loops e entrada/saída n
 ## 🛠️ Tecnologias
 
 * **Linguagem:** C
-* **Bibliotecas utilizadas:** `stdio.h`, `stdlib.h`, `time.h`
+* **Bibliotecas utilizadas:** `stdio.h`, `stdlib.h`, `time.h`,  `windows.h`
 
 ---
 
